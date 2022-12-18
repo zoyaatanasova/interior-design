@@ -1,0 +1,21 @@
+{
+	"name": "boilerplate",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"start": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.4.13",
+		"postcss": "^8.4.20",
+		"vite": "^4.0.1"
+	},
+	"dependencies": {
+		"jquery": "^3.6.2",
+		"magnific-popup": "^1.1.0",
+		"normalize.css": "^8.0.1"
+	}
+}

@@ -1,0 +1,31 @@
+.designers {
+    padding-bottom: 75px;
+}
+
+.member {
+    background-color: #f1f1f1;
+}
+
+.member__content {
+    padding: 0 16px 16px;
+    font-weight: normal;
+}
+
+.designers .faded {
+    opacity: 0.60;
+}
+
+
+.designers h3 {
+    margin: 10px 0;
+}
+
+@media only screen and (max-width:767px) {
+    .member {
+        margin-bottom: 16px;
+    }
+
+    .designers {
+        padding-bottom: 8px;
+    }
+}

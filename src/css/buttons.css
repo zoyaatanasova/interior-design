@@ -1,0 +1,11 @@
+.button {
+    padding: 12px 24px;
+    border: none;
+    color: #fff;
+    background-color: var(--color-primary);
+}
+
+.button--light {
+    color: #000;
+    background-color: #fff;
+}
